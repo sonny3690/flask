@@ -12,6 +12,8 @@ update
 save
 
 \
+detail!
+
 \
 save!!
 
